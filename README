@@ -1,0 +1,11 @@
+An advanced calculator to practice using multi-tier architecture. 
+
+Using python tkinter I will create a calculator that switches between a scientific calculator, algebraic calculator and a graphic calculator.
+
+
+I will be using Numpy/Sympy for the algebraic calculator and Sympy with either Pandas or Matplotlib for the graphic calculator.
+
+
+Most functions on the Scientific calculator are finished - need to fix the factorial and can add more functions, maybe trig? as I have more time.
+
+Need to set up a way, probably from a dropdown, where I can switch between calculator layouts
